@@ -1,2 +1,2 @@
 # Spintax Editor
-Spintax
+Spintax Editor is an open source tool to create bodies of text that can be spun using the spintax algorithm. It allows you to write randomize repeating text in a way that creates readable content, if written properly, in numerous permutations that are limited only by the combinations that are possible and the power of your processor. Create one message or article in 2 hours, and spin it to 10,000 identical messages in a matter of minutes. This is great to avoid duplicate content penalties that are present on so many systems that monitor posting content. 
