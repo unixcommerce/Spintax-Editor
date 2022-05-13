@@ -1,2 +1,2 @@
-# spintax
+# Spintax Editor
 Spintax
