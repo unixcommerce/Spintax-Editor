@@ -1,0 +1,2 @@
+# spintax
+Spintax
